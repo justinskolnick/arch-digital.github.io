@@ -12,15 +12,21 @@
     <div class="wrap">
       <div class="masthead">
         <div class="container">
-          <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+          <h3 class="masthead-title" style='text-align: center'>
+            <!--a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a -->
+            <a href="{{ site.baseurl }}/" title="Home"><img alt='Arch Digital Logo' src='/arch.png' width='180' style='margin: 10px auto 0px;'/></a>
             <small>{{ site.tagline }}</small>
           </h3>
         </div>
       </div>
 
+
       <div class="container content">
         {{ content }}
+
+        <footer style='padding-bottom: 20px'>
+          &copy; 2016 Arch Digital LLC
+        </footer>
       </div>
     </div>
 
