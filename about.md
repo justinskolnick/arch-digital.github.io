@@ -4,9 +4,9 @@ title: About
 ---
 
 Arch Digital LLC is a software development consultancy based in Portland, Oregon, 
-and specializling in development process and architectural maturity for Ruby on Rails applications.
+specializling in development process and architectural maturity for Ruby on Rails applications.
 
-## Team
+## Founder
 
 <div id='team'>
   <div class='bio'>
@@ -17,7 +17,8 @@ and specializling in development process and architectural maturity for Ruby on 
       Before founding Arch, he was the Chief Engineer of 
       <a href='https://www.bespokepost.com/home?b' target='_blank'>Bespoke Post</a> 
       and a Sr. Consultant at 
-      <a href='http://www.thoughtworks.com' target='_blank'>ThoughtWorks</a>.
+      <a href='http://www.thoughtworks.com' target='_blank'>ThoughtWorks</a>,
+      where he lead software projects for some of America's best-known companies.
     </p>
   </div>
 </div>
