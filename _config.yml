@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               'Arch.Digital'
-tagline:             'Software Development Experts'
-description:         'Software Development, Process Experts, Ruby on Rails'
+title:               'Arch Digital LLC'
+tagline:             'Software Development Process and Ruby on Rails Experts'
+description:         'Software Development Process and Ruby on Rails Experts'
 url:                 https://arch.digital
 baseurl:             ''
 paginate:            5
