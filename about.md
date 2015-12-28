@@ -3,28 +3,22 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Arch Digital LLC is a software development consultancy based in Portland, Oregon, 
+and specializling in development process and architectural maturity for Ruby on Rails applications.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Team
 
-There are currently two themes built on Poole:
+<div id='team'>
+  <div class='bio'>
+    <img src='/public/nick-urban.png' width='200' height='200'>
+    <p>
+      Nick Urban is the founder and principal consultant of Arch Digital LLC.
+      He has worked in software development since 2001.
+      Before founding Arch, he was the Chief Engineer of 
+      <a href='https://www.bespokepost.com/home?b' target='_blank'>Bespoke Post</a> 
+      and a Sr. Consultant at 
+      <a href='http://www.thoughtworks.com' target='_blank'>ThoughtWorks</a>.
+    </p>
+  </div>
+</div>
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
