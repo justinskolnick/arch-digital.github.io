@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Arch Digital LLC is a software development consultancy based in Portland, Oregon, 
+Arch Digital LLC is a software development consultancy based in Portland, Oregon. 
 specializling in development process and architectural maturity for Ruby on Rails applications.
 
 ## Team

@@ -59,7 +59,11 @@ html {
   color: #333; 
   display: block;
   margin-top: 10px; 
+  font-size: 20px;
+  font-family: Baskerville, Palatino, "Book Antiqua", serif;
+  font-variant: small-caps;
 }
+
 
 .youtube {
   width: 560px;
@@ -71,5 +75,16 @@ html {
     width: 368px;
     height: 206px;
   }
+
+  .masthead-title .subtitle { 
+    font-size: 17px;
+  }
+
+}
+
+.amp {
+  font-family: Baskerville, Palatino, "Book Antiqua", serif;
+  font-style: italic;
+  font-size: 105%;
 }
 
