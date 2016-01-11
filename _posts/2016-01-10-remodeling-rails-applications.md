@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Remodeling Rails Applications
+title: Remodeling Rails Projects
 ---
+
+<iframe class='youtube' src="https://www.youtube.com/embed/1W13Y_ys6XU" frameborder="0" allowfullscreen></iframe>
 
 Last Tuesday, I gave a presentation at PDX Ruby on how to reduce the risk
 and cost of developing and maintaining larger Ruby on Rails applications, 
@@ -16,6 +18,5 @@ hire consultants, I think you'll find it useful.
 
 &ndash; Nick Urban
 
-<iframe class='youtube' src="https://www.youtube.com/embed/1W13Y_ys6XU" frameborder="0" allowfullscreen></iframe>
 
 
