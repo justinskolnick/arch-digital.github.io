@@ -24,8 +24,7 @@ specializling in development process and architectural maturity for Ruby on Rail
   <div class='bio'>
     <img src='/public/gabe-arillaga.jpg'>
     <p>
-      Gabriel Arillaga is a software engineer with a focus on security and 
-      scientific applications. 
+      Gabriel Arillaga is a software engineer with a focus on web development and security.
       At Sandia National Laboratories, 
       he built Ruby on Rails applications to support 
       cybersecurity, energy, and climate modeling. 
