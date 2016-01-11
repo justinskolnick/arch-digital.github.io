@@ -43,8 +43,16 @@ html {
 #team .bio p {
 }
 
+#arch_logo { margin: 18px auto 0px; }
+
+.post-title {
+  line-height: 1.1;
+  margin-bottom: 15px;
+}
+
 .masthead { 
   margin-bottom: 2rem; 
+  padding-bottom: 2rem;
   border-bottom: 4px dotted #444;
 }
 .masthead-title .subtitle { 
