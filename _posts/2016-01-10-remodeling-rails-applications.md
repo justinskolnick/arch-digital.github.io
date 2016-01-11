@@ -16,6 +16,6 @@ hire consultants, I think you'll find it useful.
 
 &ndash; Nick Urban
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1W13Y_ys6XU" frameborder="0" allowfullscreen></iframe>
+<iframe class='youtube' src="https://www.youtube.com/embed/1W13Y_ys6XU" frameborder="0" allowfullscreen></iframe>
 
 

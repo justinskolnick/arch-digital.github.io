@@ -52,3 +52,16 @@ html {
   display: block;
   margin-top: 10px; 
 }
+
+.youtube {
+  width: 560px;
+  height: 315px;
+}
+
+@media (max-width: 38em) {
+  .youtube {
+    width: 350px;
+    height: 200px;
+  }
+}
+
