@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               'Arch Digital LLC'
-tagline:             'Software Development Process and Ruby on Rails Experts'
-description:         'Software Development Process and Ruby on Rails Experts'
+subhead_text:        'Software Development Process and Ruby on Rails Experts'
+sidebar_text:        '20 years of software development expeirence'
 url:                 https://arch.digital
 baseurl:             ''
 paginate:            5
