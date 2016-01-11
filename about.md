@@ -28,7 +28,7 @@ specializling in development process and architectural maturity for Ruby on Rail
       At Sandia National Laboratories, he built Ruby on Rails applications to support 
       cybersecurity, energy, and climate modeling. 
       He graduated Magna Cum Laude from the University of New Mexico and
-      was a National Nuclear Security Administration "Best in Class" award recipient in 2015.
+      was a National Nuclear Security Administration &ldquo;Best in Class&rdquo; award recipient in 2015.
     </p>
 
   </div>
