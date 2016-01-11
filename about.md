@@ -24,9 +24,8 @@ specializling in development process and architectural maturity for Ruby on Rail
   <div class='bio'>
     <img src='/public/gabe-arillaga.jpg'>
     <p>
-      Gabriel Arillaga is a software engineer with a focus on web development and security.
-      At Sandia National Laboratories, 
-      he built Ruby on Rails applications to support 
+      Gabriel Arillaga is a software engineer and web developer.
+      At Sandia National Laboratories, he built Ruby on Rails applications to support 
       cybersecurity, energy, and climate modeling. 
       He graduated Magna Cum Laude from the University of New Mexico and
       was a National Nuclear Security Administration "Best in Class" award recipient in 2015.
