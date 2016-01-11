@@ -17,4 +17,6 @@ title: Services
 
 - **Reduce risk of failed deployments** using Continuous Delivery.
 
-And much more. Get in touch to discuss your specific situation.
+And much more. Please get in touch to discuss your particular situation. 
+
+Email: [info@arch.digital](mailto:info@arch.digital)
