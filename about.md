@@ -12,13 +12,13 @@ specializling in development process and architectural maturity for Ruby on Rail
   <div class='bio'>
     <img src='/public/nick-urban.png' width='200' height='200'>
     <p>
-      Nick Urban is the founder and principal consultant of Arch Digital LLC.
-      He has worked in software development since 2001.
+      Nick Urban is the principal consultant of Arch Digital LLC.
+      He began his career as a software engineer in 2001.
       Before founding Arch, he was the Chief Engineer of 
       <a href='https://www.bespokepost.com/home?b' target='_blank'>Bespoke Post</a> 
       and a Sr. Consultant at 
       <a href='http://www.thoughtworks.com' target='_blank'>ThoughtWorks</a>,
-      where he lead technical projects for some of America&rsquo;s best-known companies.
+      where he led technical projects for some of America&rsquo;s best-known companies.
     </p>
   </div>
   <div class='bio'>
