@@ -37,5 +37,9 @@ html {
 #team .bio p {
 }
 
-.masthead-title small { color: #888; }
+.masthead-title .subtitle { 
+  color: #333; 
+  display: block;
+  margin-top: 10px; 
+}
 .masthead { margin-bottom: 2rem; }
