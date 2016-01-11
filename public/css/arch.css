@@ -45,7 +45,7 @@ html {
 
 .masthead { 
   margin-bottom: 2rem; 
-  border-bottom: 4px dotted ;
+  border-bottom: 4px dotted #444;
 }
 .masthead-title .subtitle { 
   color: #333; 
