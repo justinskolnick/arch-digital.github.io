@@ -9,7 +9,7 @@ title: What We Do
 
 - **Rails project needs assistance?**
   We work with your development team to implement processes to reduce 
-  the incidence of bugs, missed deadlines, and other business risks.
+  the incidence of bugs, missed deadlines, and other business problems.
   We improve the design of the application as well as the processes used to build it.
   See [Nick's talk on the subject](/2016/01/10/remodeling-rails-applications/).
 
