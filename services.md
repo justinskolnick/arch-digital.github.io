@@ -17,4 +17,5 @@ title: What We Do
 
 - **Are deployments a cause of anxiety and downtime?** Take the pain out deployments with DevOps automation and Continuous Delivery.
 
-Please get in touch to discuss your particular situation: [info@arch.digital](mailto:info@arch.digital)
+Schedule a free 15 minute consultation today!  Email [info@arch.digital](mailto:info@arch.digital)
+
