@@ -1,21 +1,26 @@
 ---
 layout: page
-title: What We Do
+title: Services
 ---
 
-- **Need an application built quickly and reliably?**
-  We use Agile and lean techniques to deliver more business value with less risk.
-  We use industry-leading practices for reliability, speed, and low Total Cost of Ownership.
+##Rails project stuck?
 
-- **Rails project needs assistance?**
-  We work with your development team to implement processes to reduce 
-  the incidence of bugs, missed deadlines, and other business problems.
-  We improve the design of the application as well as the processes used to build it.
-  See [Nick's talk on the subject](/2016/01/10/remodeling-rails-applications/).
+As they grow, Ruby on Rails projects tend to suffer from creeping complexity, 
+leading to bugs, poor performance, and missed deadlines.
 
-- **Running slow? Need to scale?** We accelerate your application with multi-layered caching and optimized database queries.
+We take the stress out of your development process by modularizing the
+application design and implementing robust processes like 
+Test-Driven Design and Continuous Integration.
 
-- **Are deployments a cause of anxiety and downtime?** Take the pain out deployments with DevOps automation and Continuous Delivery.
+See [Nick's talk on the subject](/2016/01/10/remodeling-rails-applications/).
+
+##Need an application built quickly and reliably?
+
+We use the same disciplined development and design processes when creating new applications
+as we do when rescuing existing ones.
+The result is more value, sooner, with less risk and a lower Total Cost of Ownership.
+
+## Let's Chat
 
 Schedule a free 15 minute consultation today!  Email [info@arch.digital](mailto:info@arch.digital)
 
