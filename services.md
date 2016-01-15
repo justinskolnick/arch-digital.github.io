@@ -3,7 +3,7 @@ layout: page
 title: Services
 ---
 
-##Rails project stuck?
+## Rails project needs a boost?
 
 As they grow, Ruby on Rails projects tend to suffer from creeping complexity, 
 leading to bugs, poor performance, and missed deadlines.
@@ -14,7 +14,7 @@ Test-Driven Design and Continuous Integration.
 
 See [Nick's talk on the subject](/2016/01/10/remodeling-rails-applications/).
 
-##Need an application built quickly and reliably?
+## Need an application built quickly and reliably?
 
 We use the same disciplined development and design processes when creating new applications
 as we do when rescuing existing ones.
