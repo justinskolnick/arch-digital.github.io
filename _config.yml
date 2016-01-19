@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               'Arch Digital LLC'
-subhead_text:        'Software Development Process <i class="amp">&amp;</i> Ruby on Rails'
+subhead_text:        'Software Development <i class="amp">&amp;</i> Technology Strategy'
 sidebar_text:        '20 years of software development expeirence'
 url:                 https://arch.digital
 baseurl:             ''

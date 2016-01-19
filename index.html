@@ -3,36 +3,32 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+<h2> Automate Your Business Processes</h2>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+<p>Businesses spend untold hours every day on manual, ad-hoc processes that 
+can be accomplished with software in a fraction of the time.</p>
 
-    {{ post.content }}
-  </div>
-  {% endfor %}
-</div>
+<p>Software solutions can bring reliability, consistency, security, ease of reporting, 
+and many other benefits over ad-hoc processes.</p>
 
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
+<p>We specialize in rapid protyping and developmenet of business software.</p>
 
+<h2>Ruby on Rails project needs a boost?</h2>
+
+<p>
+Growing software projects suffer from creeping complexity, 
+which leads to bugs, poor performance, and missed deadlines.
+Rails projects specifically have design tendencies that negatively 
+impact development beyond the first 6-12 months.
+</p>
+
+<p>
+We're Rails experts and can improve the design and development process of Rails applications.
+See <a href='{% post_url 2016-01-10-remodeling-rails-applications %}'>Nick's talk on the subject</a>.
+</p>
+
+<h2> Let's Chat</h2>
+
+<p>Schedule a free 15 minute consultation today!  Email <a href='mailto:info@arch.digital'>info@arch.digital</a></p>
+
+<p>Or read more <a href='/about'>About Us</a>.
