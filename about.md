@@ -35,10 +35,11 @@ for Ruby on Rails projects, as well as rapid application development using Agile
   <div class='bio'>
     <img src='/public/michael-dougherty.jpg'>
     <p>
-      Michael Dougherty is a front-end and Python specialist with over a decade of software development experience. 
+      Michael Dougherty has over a decade of software development experience. 
       He studied computer science at Penn State University, 
       and has worked on a <a href='http://michaeldougherty.info/web.html'>variety of projects</a>
       for companies like USA Network and the University of North Carolina. 
+      He specializes in advanced front-end work and Python/Django.
     </p>
   </div>
 </div>
