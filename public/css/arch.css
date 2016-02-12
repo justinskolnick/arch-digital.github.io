@@ -31,16 +31,50 @@ html {
 }
 
 #team .bio {
-  height: 230px;
+  min-height: 200px;
+}
+
+#team .bio:before,
+#team .bio:after {
+  content: ' ';
+  display: table;
+}
+
+#team .bio:after {
+  clear: both;
+}
+
+#team .bio + .bio {
+  margin-top: 16px;
 }
 
 #team .bio img { 
   width: 200px;
   height: 200px;
   float: left;  
-  margin-right: 20px;
+  margin: 0 20px 0 0;
 }
 #team .bio p {
+  margin: 0;
+}
+
+#team .bio p + p {
+  margin-top: 16px;
+}
+
+@media (max-width: 38em) {
+
+  #team .bio img {
+    width: 100%;
+    height: auto;
+    float: none;
+    margin: 0;
+  }
+
+  #team .bio img + p {
+    margin-top: 16px;
+  }
+
 }
 
 #arch_logo { margin: 18px auto 0px; }
